@@ -1,0 +1,23 @@
+{
+  "name": "password-generator-javascript-ft-xviii",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ljavierrodriguez/password-generator-javascript-ft-xviii.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ljavierrodriguez/password-generator-javascript-ft-xviii/issues"
+  },
+  "homepage": "https://github.com/ljavierrodriguez/password-generator-javascript-ft-xviii#readme",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
